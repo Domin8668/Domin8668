@@ -16,7 +16,7 @@
 
 :zap: I am a Full Stack Developer, currently studying Computer Science;<br/>
 :zap: I like exploring new technologies and learning new tools to optimise everything I do;<br/>
-:zap: Learning is my main passion, alongside reading, and everything football (soccer) and chess-related.<br/>
+:zap: Learning is my main passion, alongside reading, and everything football- (soccer-) and chess-related.<br/>
 
 ---
 
