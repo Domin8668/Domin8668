@@ -21,10 +21,16 @@
 
 ## :hammer_and_wrench: Tech stack:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![RxJS](https://img.shields.io/badge/-RxJS-05122A?style=flat&logo=reactivex)&nbsp;
+
+
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
+![Leaflet](https://img.shields.io/badge/-Leaflet-05122A?style=flat&logo=Leaflet)&nbsp;
 
 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=jasmine)&nbsp;
