@@ -13,9 +13,9 @@
 
 ## :man_technologist: About me:
 
-:zap: I am a full-stack Developer<br/>
+:zap: I am a full-stack developer<br/>
 :zap: I like exploring new technologies and learning new tools to optimise everything I do;<br/>
-:zap: I love reading, learning new things and improving, so I can be the best version of myself :3<br/>
+:zap: I love reading, cats and learning new things so I can be the best version of myself :3<br/>
 
 ---
 
